@@ -1,4 +1,4 @@
-# Lord of the Sorts 🧙‍♂️🌀
+# Lord of the Sorts 🧙‍♂️
 
 In this repo, I attempt to write the famous sorting algorithms **from scratch**.
 
@@ -26,3 +26,7 @@ I’ve always hated math, so this is something I want to conquer—and in the pr
 - **Dec 7th, 2025**  
   Built **Bubble Sort** on my own and fully understand what is happening under the hood.  
   I’m confident I can program Bubble Sort in the middle of the night (at least in python for now)
+
+- **Dec 8th 2025**
+  Built **Merge Sort** on my own. Took a lot of time to understand the sequence of calls due to recursion.
+  Used [Python Visualizer](https://pythontutor.com/render.html#mode=edit).
