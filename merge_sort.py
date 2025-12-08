@@ -51,5 +51,3 @@ def merge_sort(nums):
         j+=1
     
     return sorted_list
-
-print(merge_sort(nums=[45435,1,3,2,4,5,3,-1,0]))
