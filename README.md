@@ -24,13 +24,17 @@ I’ve always hated math, so this is something I want to conquer—and in the pr
 ## Progress Log
 
 - **Dec 7th, 2025**  
-  Built **Bubble Sort** on my own and fully understand what is happening under the hood.  
+  Wrote **Bubble Sort** on my own and fully understand what is happening under the hood.  
   I’m confident I can program Bubble Sort in the middle of the night (at least in python for now)
 
 - **Dec 8th 2025**  
-  Built **Merge Sort** on my own. Took a lot of time to understand the sequence of calls due to recursion.  
+  Wrote **Merge Sort** on my own. Took a lot of time to understand the sequence of calls due to recursion.  
   Used [Python Visualizer](https://pythontutor.com/render.html#mode=edit).
 
 - **Dec 9th 2025**  
-  Built **Insertion Sort** on my own. 
+  Wrote **Insertion Sort** on my own. 
   Study Reference [Kunal's Video ](https://www.youtube.com/watch?v=By_5-RRqVeE).
+
+- **Dec 11th 2025**  
+  Wrote **Quick Sort** on my own. 
+  Study Reference [Boot.dev](https://www.boot.dev/lessons/5f62f856-53bf-47aa-a5b0-ada9381e3e57).
