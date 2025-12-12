@@ -1,6 +1,7 @@
 #Writing Quick sort from scratch 
 #Date: Dec 11th 2025
 #Refrence: https://en.wikipedia.org/wiki/Quicksort
+#Time Complexity: Average & Best Case: O(n*logn), Worst Case: O(n**2) 
 
 
 #Nums is the list of numbers, low = 0, high = len(nums) - 1 (last index)
