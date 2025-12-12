@@ -1,25 +1,16 @@
-# Lord of the Sorts 🧙‍♂️
+# Lord of the Sorts
 
 In this repo, I attempt to write the famous sorting algorithms **from scratch**.
-
-If I succeed, I will truly be the **Lord of the Sorts**.
-
-This is not just a coding project; it’s a personal challenge to deeply understand how these algorithms work under the hood—not just copy them and move on.
-
----
-
-## Rules (My Personal Oath)
-
-I will be updating this repo as I implement sorting algorithms on my own.
-
-I might look at someone else’s code **only if I am completely stuck**, but I make this promise:
-
-> When I write the code that lives in this repo, it will be written **without any assistance from AI or from a human**, purely from my understanding of the algorithm, from the bottom of my brain.
 
 This repo is a **testament of time and effort** spent understanding the logic behind sorting stupid numbers.
 
 I’ve always hated math, so this is something I want to conquer—and in the process, become the **Lord of the Sorts**.
 
+---
+
+## Rules
+
+> When I write the code that lives in this repo, it will be written **without any assistance from AI or from a human**, purely from my understanding of the algorithm, from the bottom of my brain.
 
 ## Progress Log
 
@@ -38,3 +29,6 @@ I’ve always hated math, so this is something I want to conquer—and in the pr
 - **Dec 11th 2025**  
   Wrote **Quick Sort** on my own. 
   Study Reference [Boot.dev](https://www.boot.dev/lessons/5f62f856-53bf-47aa-a5b0-ada9381e3e57).
+
+- **Dec 12th 2025**
+  Wrote **Selection Sort** on my own.
