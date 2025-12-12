@@ -6,6 +6,8 @@ This repo is a **testament of time and effort** spent understanding the logic be
 
 I’ve always hated math, so this is something I want to conquer—and in the process, become the **Lord of the Sorts**.
 
+<img width="675" height="450" alt="sorting" src="https://github.com/user-attachments/assets/729d6019-3e2d-4f94-bceb-457983d58520" />
+
 ---
 
 ## Rules
