@@ -1,6 +1,6 @@
 #Writing Quick sort from scratch 
 #Date: Dec 11th 2025
-#Refrence: https://en.wikipedia.org/wiki/Quicksort
+#Reference: https://en.wikipedia.org/wiki/Quicksort
 #Time Complexity: Average & Best Case: O(n*logn), Worst Case: O(n**2) 
 
 
@@ -9,19 +9,19 @@ def quick_sort(nums, low, high):
 
     if low < high:
 
-        #Partition funtion will return the pivot index after placing the pivot index number in it's correct position
+        #Partition function will return the pivot index after placing the pivot index number in it's correct position
         pivot_index = partition(nums, low, high)
         
-        #recursivley calling partition on left side of the array 
+        #recursively calling partition on left side of the array 
         quick_sort(nums, low, pivot_index -1 )
 
-        #recursivley calling partition on the right side of the array
+        #recursively calling partition on the right side of the array
         quick_sort(nums, pivot_index + 1, high)
 
 
 def partition(nums, low, high):
 
-    #ith indx starts at -1
+    #ith index starts at -1
     i = low - 1
     pivot = nums[high]
 
